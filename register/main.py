@@ -412,7 +412,7 @@ def export_users_xlsx(update: Update, context: CallbackContext):
 
 def main():
     init_db()
-    updater = Updater("8537083178:AAHxuLjdiStCs1zOrWmViqvxTFpuEKCaUwQ", use_context=True)
+    updater = Updater("YOUR_BOT_TOKEN_IS_THERE", use_context=True)
     dp = updater.dispatcher
 
     start_conv = ConversationHandler(
