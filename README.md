@@ -3,7 +3,7 @@
 **This bot is designed to collect user information — simple, flexible, and suitable for many use cases.**
 
 <p align="center">
-  <img src="image_walpaper" alt="Bot screenshot" width="640" style="max-width:100%; height:auto; border-radius:8px;">
+  <img src="image_walpaper.png" alt="Bot screenshot" width="640" style="max-width:100%; height:auto; border-radius:8px;">
 </p>
 
 ---
